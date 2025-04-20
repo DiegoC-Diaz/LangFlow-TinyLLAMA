@@ -1,6 +1,8 @@
 # Configurar entorno Local:
 Es necesario tener una instancia de LangFlow ya que es una Aplicación Web:
+
 https://github.com/langflow-ai/langflow
+
 https://www.langflow.org/
 
 
