@@ -41,7 +41,6 @@ En lugar de depender solo de lo que el modelo "sabe" internamente, el RAG busca 
 
 Una de las grandes ventajas de esta herramienta es que se pueden visualizar las conexiones del flujo y apreciar el funcionamiento del RAG. (Los colores indican diferentes objetos que son retornados por cada componente).
 
-![[Pasted image 20250419195546.png]]
 
 ---
 
