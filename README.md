@@ -34,7 +34,7 @@ En este documento se mostrará el uso de la herramienta para crear un **RAG** pa
     
 - Astra DB como base de datos vectorial
     
-- Nomic-Embedding
+- [Nomic-Embedding](https://ollama.com/library/nomic-embed-text)
     
 
 ---
