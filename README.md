@@ -5,7 +5,8 @@ https://github.com/langflow-ai/langflow
 
 https://www.langflow.org/
 
-
+Despues de configurar y acceder a la interfaz de LangFlow se puede importar el archivo "Micardis Pharmaceutical Agent.json"
+para cargar el proyecto.
 
 # LangFlow-TinyLLAMA
 Construcción de un agente farmacéutico haciendo  uso de LangFlow para modelar un RAG que utiliza un LLM (Tiny-LLAMA) 
